@@ -12,4 +12,4 @@ SMShareView *shareView = [[SMShareView alloc] initWithFrame:self.view.bounds];
 }];
 ```
 
-#![image](https://github.com/SimanLiu/SMShareView/blob/master/ezgif-1-e9aff456f3.gif)
+![image](https://github.com/SimanLiu/SMShareView/blob/master/ezgif-1-e9aff456f3.gif)
